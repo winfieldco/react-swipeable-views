@@ -1,7 +1,7 @@
 {
-  "name": "SwipeableViewsDocs",
+  "name": "react-swipeable-views-native",
   "private": true,
-  "version": "0.12.8-post1",
+  "version": "0.12.8-post2",
   "scripts": {
     "lint": "eslint . && echo \"eslint: no lint errors\"",
     "test": "npm run lint && npm run test:unit",
